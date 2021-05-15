@@ -1,10 +1,6 @@
-# Basic Banking System
+#Banking System
 
-This project has been completed during my one-month Web development Internship with The Sparks Foundation. Check out the video to see how this website works [here](https://youtu.be/kTrb-JZYorI).
-
-Website is hosted here: http://swatitripathi.epizy.com/
-
-Drop a star if this code helps you :)
+This project has been completed during my one-month Web development Internship with The Sparks Foundation. Check out the video to see how this website works [here]
 
 ### Task assigned was as follows:
 
