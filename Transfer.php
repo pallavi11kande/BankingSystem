@@ -1,5 +1,5 @@
 <!-- 
-MADE BY SWATI TRIPATHI
+MADE BY Pallavi Kande
 
 THIS PAGE IS FOR TRANSACTION OF MONEY FROM ONE BANK ACCOUNT TO ANOTHER.
 ON THIS PAGE,
@@ -138,4 +138,4 @@ of the two account else they will be shown errors.
 </body>
 </html>
 <!--HTML CODE ENDS HERE-->
-<!--MADE BY SWATI TRIPATHI-->
+<!--MADE BY Pallavi Kande-->
